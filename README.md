@@ -14,7 +14,7 @@ Please make sure you follow instructions below in order to **clone the project**
 ## Clone the Project
 Go to your working directory and run:
 ```
-git clone 
+git clone git@github.com:Snapptrip/frontend-code-challenge.git
 ```
 ## Solving the Challenges
 ### Requirements and dependencies
